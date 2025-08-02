@@ -1,0 +1,34 @@
+font: Roboto
+
+HERO and FOOTER BG:
+#1F2937
+
+HERO main text:
+489X
+WEIGHT: 900
+#F9FAF8
+
+HERO secondary text, link text:
+18px
+#E5E7EB
+
+HEADER logo text:
+24px
+#F9FAF8
+
+BUTTON color, CTA bg color:
+#3882F6
+
+INFORMATION header text:
+36px
+#1F2937
+WEIGHT: 900
+
+QUOTE bg color:
+#E5E7EB
+
+QUOTE text:
+36px
+light
+italic
+#1F2937
