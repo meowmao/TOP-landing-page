@@ -85,7 +85,7 @@ ul, a{
 
 .hero-img{
     /* flex: 1; */
-    min-width: 520px;
+    width: 520px;
     height: 235px;
     background-color: #6D747D;
     display: flex;
