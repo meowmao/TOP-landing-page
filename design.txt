@@ -4,11 +4,11 @@ HERO and FOOTER BG:
 #1F2937
 
 HERO main text:
-489X
+48px
 WEIGHT: 900
 #F9FAF8
 
-HERO secondary text, link text:
+HERO secondary text, HEADER link text:
 18px
 #E5E7EB
 
