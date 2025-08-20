@@ -7,6 +7,10 @@
    font-family: 'Roboto', sans-serif;
 }
 
+body{
+    box-sizing: border-box;
+}
+
 ul, a{
     list-style-type: none;
     text-decoration: none;
@@ -46,10 +50,10 @@ ul, a{
     align-items: center;
     flex-wrap: wrap;
     height: calc(100vh - 60px);
-    padding: 100px 10%;
+    padding: 50px 10%;
     background-color: #1F2937;
     color: #E5E7EB;
-    /* gap: 50px; */
+    gap: 20px;
 }
 
 .main{
